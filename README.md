@@ -1,4 +1,4 @@
 # repo-aula
 
-Conflit resolvido.
+Conflito resolvido.
 
